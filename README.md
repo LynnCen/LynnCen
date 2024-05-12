@@ -47,7 +47,7 @@
 
 <img align="right" width="88" src="./assets/images/LynnCenLogo.png" />
 <p>&emsp;&emsp;<strong>While there is life there is hope</strong></p>
-<p>&emsp;&emsp;LynnCen is a two and a half year long practicing webFrontEnd developer </p>
+<p>&emsp;&emsp;LynnCen is a  webFrontEnd developer </p>
 <p>&emsp;&emsp;In the developer field,  to become a freelancer.</p>
 
 </td></tr>
