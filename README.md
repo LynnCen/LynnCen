@@ -79,7 +79,6 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div> -->
 <!-- </div> -->
 
-#  🙋 Hello
 
 <table width='100%'>
   
@@ -87,7 +86,7 @@
 
 ### 🤺 About Me
 
-<!-- <img align="right" width="88" src="./assets/images/LynnCenLogo.png" /> -->
+<img align="right" width="88" src="./assets/images/LynnCenLogo.png" />
 <p>&emsp;&emsp;<strong>While there is life there is hope</strong></p>
 <p>&emsp;&emsp;LynnCen is a two and a half year long practicing webFrontEnd developer who is now a digital nomad.</p>
 <p>&emsp;&emsp;In the developer field, he often actively participates in GitHub and aspires to become a freelancer.</p>
@@ -96,21 +95,21 @@
 
 <tr><td>
 
-### 🤾‍♂️ Funny Soul
+<!-- ### 🤾‍♂️ Funny Soul -->
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" /> -->
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
+<!-- * <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
 * <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07 -->
 <!-- END_SECTION:douban -->
 
-</td></tr>
+<!-- </td></tr>
 
-<tr><td>
+<tr><td> -->
 
 <!-- ### 📊 WakaTime
 
@@ -131,7 +130,7 @@
 <tr><td> -->
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+<!-- **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
@@ -149,10 +148,10 @@ Thursday                 239 commits         ███░░░░░░░░�
 Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
 Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-```
+``` -->
 
 
-📊 **This Week I Spent My Time On** 
+<!-- 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -172,18 +171,18 @@ Mac                      16 hrs 22 mins      ███████████�
 ```
 
 
- Last Updated on 29/03/2024 01:15:34 UTC
+ Last Updated on 29/03/2024 01:15:34 UTC -->
 <!--END_SECTION:waka-->
 
-</td></tr>
+<!-- </td></tr>
 
-</table>
+</table> -->
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<div align="center">
+<div align="center"> -->
 
 <!-- run 图片 -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" /> -->
@@ -203,7 +202,7 @@ Mac                      16 hrs 22 mins      ███████████�
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
+<!-- <table>
   <tr>
     <td>
       <picture>
@@ -214,7 +213,7 @@ Mac                      16 hrs 22 mins      ███████████�
   </tr>
 </table>
 
-</div>
+</div> -->
 
 
 <!-- <div align="center" >
