@@ -37,8 +37,9 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
+<div display='flex'>
 
-  <table width='100%'>
+  <table width='100%' flex =1>
   
 <tr><td>
 
@@ -52,6 +53,9 @@
 </td></tr>
 
 <tr><td>
+</table>
+</div>
+
 
 </div>
 <!-- GitHub metrics 信息指标 -->
