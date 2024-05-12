@@ -71,7 +71,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr> -->
-<!-- </table> --> -->
+<!-- </table> --> 
 
 <!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" /> -->
 
@@ -88,7 +88,7 @@
 
 <img align="right" width="88" src="./assets/images/LynnCenLogo.png" />
 <p>&emsp;&emsp;<strong>While there is life there is hope</strong></p>
-<p>&emsp;&emsp;LynnCen is a two and a half year long practicing webFrontEnd developer who is now a digital nomad.</p>
+<p>&emsp;&emsp;LynnCen is a two and a half year long practicing webFrontEnd developer </p>
 <p>&emsp;&emsp;In the developer field, he often actively participates in GitHub and aspires to become a freelancer.</p>
 
 </td></tr>
