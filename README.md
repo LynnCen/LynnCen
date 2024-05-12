@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" >
 
   <!-- dynamic typing effect 动态打字效果 -->
   <!-- <div>
@@ -36,6 +36,22 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
+
+
+  <table width='100%'>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="./assets/images/LynnCenLogo.png" />
+<p>&emsp;&emsp;<strong>While there is life there is hope</strong></p>
+<p>&emsp;&emsp;LynnCen is a two and a half year long practicing webFrontEnd developer </p>
+<p>&emsp;&emsp;In the developer field,  to become a freelancer.</p>
+
+</td></tr>
+
+<tr><td>
 
 </div>
 <!-- GitHub metrics 信息指标 -->
@@ -80,20 +96,8 @@
 <!-- </div> -->
 
 
-<table width='100%'>
-  
-<tr><td>
 
-### 🤺 About Me
 
-<img align="right" width="88" src="./assets/images/LynnCenLogo.png" />
-<p>&emsp;&emsp;<strong>While there is life there is hope</strong></p>
-<p>&emsp;&emsp;LynnCen is a two and a half year long practicing webFrontEnd developer </p>
-<p>&emsp;&emsp;In the developer field,  to become a freelancer.</p>
-
-</td></tr>
-
-<tr><td>
 
 <!-- ### 🤾‍♂️ Funny Soul -->
 
