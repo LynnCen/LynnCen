@@ -39,7 +39,7 @@
 
 </div>
 <!-- GitHub metrics 信息指标 -->
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- just img 图片 -->
 <!-- <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /> -->
@@ -63,21 +63,21 @@
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr> -->
-  <tr>
+  <!-- <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
+  </tr> -->
   <!-- <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr> -->
-</table> -->
+<!-- </table> --> -->
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<!-- <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" /> -->
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-</div>
+<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div> -->
+<!-- </div> -->
 
 #  🙋 Hello
 
@@ -112,7 +112,7 @@
 
 <tr><td>
 
-### 📊 WakaTime
+<!-- ### 📊 WakaTime
 
 <picture>
   <source
@@ -128,7 +128,7 @@
 
 </td></tr>
 
-<tr><td>
+<tr><td> -->
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
