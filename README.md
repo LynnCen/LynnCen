@@ -37,26 +37,6 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-<!-- <div display='flex'> -->
-
-  <table width='100%' flex =1>
-  
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="./assets/images/LynnCenLogo.png" />
-<div>&emsp;&emsp;<strong>While there is life there is hope</strong></div>
-<div>&emsp;&emsp;LynnCen is a  webFrontEnd developer </div>
-<div>&emsp;&emsp;In the developer field,  to become a freelancer.</div>
-
-</td></tr>
-
-<tr><td>
-</table>
-</div>
-<!-- </table> --> 
-
 </div>
 
 <!-- GitHub metrics 信息指标 -->
